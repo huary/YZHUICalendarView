@@ -9,7 +9,7 @@
 #import "YZHUICalendarItemCell.h"
 #import "YZHUIButton.h"
 
-const static dotH_s = 5;
+const static CGFloat dotH_s = 5.0;
 
 @interface YZHUICalendarItemCell ()
 
